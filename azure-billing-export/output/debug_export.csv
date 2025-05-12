@@ -1,0 +1,5 @@
+Date;ResourceName;ResourceId;CostUSD;CostEUR
+2023-01-01;test-service-1;/subscriptions/sub-id/resourceGroups/test-rg/providers/Microsoft.CognitiveServices/accounts/test-service-1;11,25;10,50
+2023-01-01;test-service-2;/subscriptions/sub-id/resourceGroups/test-rg/providers/Microsoft.CognitiveServices/accounts/test-service-2;27,50;25,75
+2023-02-01;test-service-1;/subscriptions/sub-id/resourceGroups/test-rg/providers/Microsoft.CognitiveServices/accounts/test-service-1;13,75;12,30
+2023-02-01;test-service-2;/subscriptions/sub-id/resourceGroups/test-rg/providers/Microsoft.CognitiveServices/accounts/test-service-2;30,25;28,90
